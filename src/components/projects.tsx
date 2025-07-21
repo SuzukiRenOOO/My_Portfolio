@@ -53,19 +53,21 @@ export const Projects = () => {
       <div className="flex flex-col gap-7">
         {projectGroups.map((group, groupIdx) => (
           <div key={groupIdx} className="flex flex-col gap-7 md:flex-row">
-            {group.map((project: (typeof projectsData)[number], index: number) => (
-              <Project
-                key={project.title + (groupIdx * 3 + index)}
-                project={project}
-                index={groupIdx * 3 + index}
-              />
-            ))}
+            {group.map(
+              (project: (typeof projectsData)[number], index: number) => (
+                <Project
+                  key={project.title + (groupIdx * 3 + index)}
+                  project={project}
+                  index={groupIdx * 3 + index}
+                />
+              )
+            )}
           </div>
         ))}
       </div>
       {!showAll && projectsData.length > 3 && (
         <button
-          className="mt-6 mx-auto block rounded bg-primary px-6 py-2 text-primary-foreground hover:bg-primary/90 transition-colors"
+          className="bg-primary text-primary-foreground hover:bg-primary/90 mx-auto mt-6 block rounded px-6 py-2 transition-colors"
           onClick={() => setShowAll(true)}
         >
           もっと見る

@@ -25,7 +25,6 @@ $ npm run dev
 
 and open http://localhost:3000 to see this app.
 
-=======================
 
 ## 🔧 Tech/framework used 
 - Next.js

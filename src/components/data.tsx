@@ -1,8 +1,4 @@
-import Link from 'next/link';
-
-import { buttonVariants } from '@/components/button';
 import { Icons } from '@/components/icons';
-import { cn } from '@/lib/utils';
 
 export const links = [
   {
@@ -84,7 +80,9 @@ export const experiencesData = [
     company: 'Creative Netdoor Co., Ltd.',
     description: (
       <>
-        クリエイティブ・ネットドア株式会社では、フロントエンド、バックエンド、GISの専門家と協力し、クリエイティブ・ネットドア株式会社の不動産レポート生成プラットフォーム「Creative Netdoor Co., Ltd.-app.com」の構築に携わっています。私はフロントエンドの開発と維持管理を担当し、ユーザーが直感的で分かりやすい体験を得られるよう、UI/UXのデザインにも携わっています。
+        クリエイティブ・ネットドア株式会社では、フロントエンド、バックエンド、GISの専門家と協力し、クリエイティブ・ネットドア株式会社の不動産レポート生成プラットフォーム「Creative
+        Netdoor Co.,
+        Ltd.-app.com」の構築に携わっています。私はフロントエンドの開発と維持管理を担当し、ユーザーが直感的で分かりやすい体験を得られるよう、UI/UXのデザインにも携わっています。
       </>
     ),
     period: '2025 - present',
