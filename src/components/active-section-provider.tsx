@@ -21,7 +21,7 @@ export const ActiveSectionContext = createContext<TActiveSectionContext | null>(
 );
 
 export const ActiveSectionProvider = ({ children }: PropsWithChildren) => {
-  const [activeSection, setActiveSection] = useState<SectionName>('Home');
+  const [activeSection, setActiveSection] = useState<SectionName>('ホーム');
   const [timeOfLastClick, setTimeOfLastClick] = useState(0);
 
   return (

@@ -43,10 +43,6 @@ export default function RootLayout({
           href="https://fonts.gstatic.com"
           crossOrigin="anonymous"
         />
-        <link
-          href="https://fonts.googleapis.com/css2?family=Noto+Sans+JP:wght@400;700&display=swap"
-          rel="stylesheet"
-        />
       </Head>
       <body className={cn('min-h-screen font-sans', fonts)}>
         <ThemeProvider attribute="class">
