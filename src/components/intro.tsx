@@ -54,7 +54,8 @@ export const Intro = () => {
         }}
         className="text-muted-foreground max-w-xl"
       >
-        日本在住のフロントエンドエンジニアです。Next.js、React、Tailwind CSSを用いたモダンなWebアプリ開発に情熱を注いでいます。
+        日本在住のフロントエンドエンジニアです。Next.js、React、Tailwind
+        CSSを用いたモダンなWebアプリ開発に情熱を注いでいます。
       </motion.p>
       <motion.div
         initial={{ opacity: 0, y: 100 }}
