@@ -136,8 +136,8 @@ export const projectsData = [
     image: '/images/10.png',
     title: 'My_Project10',
     description:
-      'このプロジェクトは、TypeScript、Tailwind CSS、Next-auth、Eslint、Stripe、テストツールなど、豊富な機能を搭載しています。',
-    technologies: ['Next.js', 'TypeScript', ' Nest.js', 'Tailwind', 'Prisma'],
+      'このプロジェクトは、TypeScript、Tailwind CSS、WordPress、Eslint、Stripe、テストツールなど、豊富な機能を搭載しています。',
+    technologies: ['WordPress', 'TypeScript', 'Tailwind', 'Prisma'],
     links: {
       preview: '/images/10.png',
       github: '/images/10.png',
