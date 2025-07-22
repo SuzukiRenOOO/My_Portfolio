@@ -62,7 +62,7 @@ export const projectsData = [
   },
   {
     image: '/images/4.png',
-    title: 'My_Project41',
+    title: 'My_Project4',
     description:
       'このプロジェクトは、TypeScript、Tailwind CSS、Next-auth、Eslint、Stripe、テストツールなど、豊富な機能を搭載しています。',
     technologies: ['Next.js', 'TypeScript', ' Nest.js', 'Tailwind', 'Prisma'],
