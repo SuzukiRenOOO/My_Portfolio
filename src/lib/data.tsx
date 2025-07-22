@@ -40,8 +40,8 @@ export const projectsData = [
     image: '/images/2.png',
     title: 'My_Project2',
     description:
-      'このプロジェクトは、TypeScript、Tailwind CSS、Next-auth、Eslint、Stripe、テストツールなど、豊富な機能を搭載しています。',
-    technologies: ['Next.js', 'TypeScript', ' Nest.js', 'Tailwind', 'Prisma'],
+      'このプロジェクトは、TypeScript、Tailwind CSS、WordPress、Stripe、テストツールなど、豊富な機能を搭載しています。',
+    technologies: ['WordPress', 'TypeScript', 'Tailwind', 'Prisma'],
     links: {
       preview: '/images/2.png',
       github: '/images/2.png',
@@ -52,8 +52,8 @@ export const projectsData = [
     image: '/images/6.png',
     title: 'My_Project3',
     description:
-      'このプロジェクトは、TypeScript、Tailwind CSS、Next-auth、Eslint、Stripe、テストツールなど、豊富な機能を搭載しています。',
-    technologies: ['Next.js', 'TypeScript', ' Nest.js', 'Tailwind', 'Prisma'],
+      'このプロジェクトは、TypeScript、Tailwind CSS、WordPress、Stripe、テストツールなど、豊富な機能を搭載しています。',
+    technologies: ['WordPress', 'TypeScript', 'Tailwind', 'Prisma'],
     links: {
       preview: '/images/6.png',
       github: '/images/6.png',
@@ -64,8 +64,8 @@ export const projectsData = [
     image: '/images/4.png',
     title: 'My_Project4',
     description:
-      'このプロジェクトは、TypeScript、Tailwind CSS、Next-auth、Eslint、Stripe、テストツールなど、豊富な機能を搭載しています。',
-    technologies: ['Next.js', 'TypeScript', ' Nest.js', 'Tailwind', 'Prisma'],
+      'このプロジェクトは、TypeScript、Tailwind CSS、WordPress、Stripe、テストツールなど、豊富な機能を搭載しています。',
+    technologies: ['WordPress', 'TypeScript', 'Tailwind', 'Prisma'],
     links: {
       preview: '/images/4.png',
       github: '/images/4.png',
@@ -76,8 +76,8 @@ export const projectsData = [
     image: '/images/3.png',
     title: 'My_Project5',
     description:
-      'このプロジェクトは、TypeScript、Tailwind CSS、WordPress、Eslint、Stripe、テストツールなど、豊富な機能を搭載しています。',
-    technologies: ['WordPress', 'TypeScript', 'Tailwind', 'Prisma'],
+      'このプロジェクトは、TypeScript、Tailwind CSS、Shopify、Stripe、テストツールなど、豊富な機能を搭載しています。',
+    technologies: ['Shopify', 'TypeScript', 'Tailwind', 'Prisma'],
     links: {
       preview: '/images/3.png',
       github: '/images/3.png',
@@ -100,8 +100,8 @@ export const projectsData = [
     image: '/images/8.png',
     title: 'My_Project7',
     description:
-      'このプロジェクトは、TypeScript、Tailwind CSS、Next-auth、Eslint、Stripe、テストツールなど、豊富な機能を搭載しています。',
-    technologies: ['Next.js', 'TypeScript', ' Nest.js', 'Tailwind', 'Prisma'],
+      'このプロジェクトは、TypeScript、Tailwind, Shopify、Stripe、テストツールなど、豊富な機能を搭載しています。',
+    technologies: ['Shopify', 'TypeScript', 'Tailwind', 'Prisma'],
     links: {
       preview: '/images/8.png',
       github: '/images/8.png',
@@ -112,8 +112,8 @@ export const projectsData = [
     image: '/images/9.png',
     title: 'My_Project8',
     description:
-      'このプロジェクトは、TypeScript、Tailwind CSS、WordPress、Eslint、Stripe、テストツールなどを使用して構築されたオンラインショップです。',
-    technologies: ['WordPress', 'TypeScript', 'Tailwind', 'Prisma'],
+      'このプロジェクトは、TypeScript、Tailwind CSS、Shopify、Stripe、テストツールなどを使用して構築されたオンラインショップです。',
+    technologies: ['Shopify', 'TypeScript', 'Tailwind', 'Prisma'],
     links: {
       preview: '/images/9.png',
       github: '/images/9.png',
@@ -124,7 +124,7 @@ export const projectsData = [
     image: '/images/7.png',
     title: 'My_Project9',
     description:
-      'このプロジェクトは、TypeScript、Tailwind CSS、WordPress、Eslint、Stripe、テストツールなど、豊富な機能を搭載しています。',
+      'このプロジェクトは、TypeScript、Tailwind CSS、WordPress、Stripe、テストツールなど、豊富な機能を搭載しています。',
     technologies: ['WordPress', 'TypeScript', 'Tailwind', 'Prisma'],
     links: {
       preview: '/images/7.png',
@@ -136,8 +136,8 @@ export const projectsData = [
     image: '/images/10.png',
     title: 'My_Project10',
     description:
-      'このプロジェクトは、TypeScript、Tailwind CSS、WordPress、Eslint、Stripe、テストツールなど、豊富な機能を搭載しています。',
-    technologies: ['WordPress', 'TypeScript', 'Tailwind', 'Prisma'],
+      'このプロジェクトは、TypeScript、Tailwind CSS、Shopify、Stripe、テストツールなど、豊富な機能を搭載しています。',
+    technologies: ['Shopify', 'TypeScript', 'Tailwind', 'Prisma'],
     links: {
       preview: '/images/10.png',
       github: '/images/10.png',
@@ -160,7 +160,7 @@ export const projectsData = [
     image: '/images/11.png',
     title: 'My_Project12',
     description:
-      'このプロジェクトは、TypeScript、Tailwind CSS、WordPress、Eslint、Stripe、テストツールなどを使用して開発されたマッチングアプリです。',
+      'このプロジェクトは、TypeScript、Tailwind CSS、WordPress、Stripe、テストツールなどを使用して開発されたマッチングアプリです。',
     technologies: ['WordPress', 'TypeScript', 'Tailwind', 'Prisma'],
     links: {
       preview: '/images/11.png',
@@ -196,8 +196,8 @@ export const projectsData = [
     image: '/images/Service/16.png',
     title: 'My_Project15',
     description:
-      'このプロジェクトは、TypeScript、Tailwind CSS、Next-auth、Eslint、Stripe、テストツールなど、豊富な機能を搭載しています。',
-    technologies: ['Next.js', 'TypeScript', ' Nest.js', 'Tailwind', 'Prisma'],
+      'このプロジェクトは、TypeScript、Tailwind CSS、WordPress、Stripe、テストツールなど、豊富な機能を搭載しています。',
+    technologies: ['WordPress', 'TypeScript', 'Tailwind', 'Prisma'],
     links: {
       preview: '/images/Service/16.png',
       github: '/images/Service/16.png',
@@ -208,8 +208,8 @@ export const projectsData = [
     image: '/images/Service/15.png',
     title: 'My_Project16',
     description:
-      'このプロジェクトは、TypeScript、Tailwind CSS、Next-auth、Eslint、Stripe、テストツールなど、豊富な機能を搭載しています。',
-    technologies: ['Next.js', 'TypeScript', ' Nest.js', 'Tailwind', 'Prisma'],
+      'このプロジェクトは、TypeScript、Tailwind CSS、WordPress、Stripe、テストツールなど、豊富な機能を搭載しています。',
+    technologies: ['WordPress', 'TypeScript', 'Tailwind', 'Prisma'],
     links: {
       preview: '/images/Service/15.png',
       github: '/images/Service/15.png',
@@ -220,8 +220,8 @@ export const projectsData = [
     image: '/images/Service/14.png',
     title: 'My_Project17',
     description:
-      'このプロジェクトは、TypeScript、Tailwind CSS、Next-auth、Eslint、Stripe、テストツールなど、豊富な機能を搭載しています。',
-    technologies: ['Next.js', 'TypeScript', ' Nest.js', 'Tailwind', 'Prisma'],
+      'このプロジェクトは、TypeScript、Tailwind CSS、WordPress、Stripe、テストツールなど、豊富な機能を搭載しています。',
+    technologies: ['WordPress', 'TypeScript', 'Tailwind', 'Prisma'],
     links: {
       preview: '/images/Service/14.png',
       github: '/images/Service/14.png',
