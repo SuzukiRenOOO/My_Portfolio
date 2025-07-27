@@ -105,7 +105,7 @@ export const projectsData = [
     links: {
       preview: 'https://saearai-gallery.tokyo/',
       github: 'https://saearai-gallery.tokyo/',
-      githubApi: '#',
+      githubApi: 'https://saearai-gallery.tokyo/',
     },
   },
   {
