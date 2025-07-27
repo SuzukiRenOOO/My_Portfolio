@@ -53,7 +53,7 @@ export const projectsData = [
     title: 'My_Project3',
     description:
       'このプロジェクトは、TypeScript、Tailwind CSS、WordPress、Stripe、テストツールなど、豊富な機能を搭載しています。',
-    technologies: ['WordPress', 'TypeScript', 'Tailwind', 'Prisma'],
+    technologies: ['WordPress', 'TypeScript', 'Tailwind', 'three.js'],
     links: {
       preview: '/images/6.png',
       github: '/images/6.png',
@@ -89,7 +89,7 @@ export const projectsData = [
     title: 'My_Project6',
     description:
       'このプロジェクトは、TypeScript、Tailwind CSS、Next-auth、Eslint、Stripe、テストツールなど、豊富な機能を搭載しています。',
-    technologies: ['Next.js', 'TypeScript', ' Nest.js', 'Tailwind', 'Prisma'],
+    technologies: ['Next.js', 'TypeScript', ' Nest.js', 'Tailwind', 'three.js'],
     links: {
       preview: 'https://biyou-kango.jp',
       github: 'https://biyou-kango.jp',
@@ -105,7 +105,7 @@ export const projectsData = [
     links: {
       preview: 'https://saearai-gallery.tokyo/',
       github: 'https://saearai-gallery.tokyo/',
-      githubApi: 'https://saearai-gallery.tokyo/',
+      githubApi: '#',
     },
   },
   {
@@ -209,7 +209,7 @@ export const projectsData = [
     title: 'My_Project16',
     description:
       'このプロジェクトは、TypeScript、Tailwind CSS、WordPress、Stripe、テストツールなど、豊富な機能を搭載しています。',
-    technologies: ['WordPress', 'TypeScript', 'Tailwind', 'Prisma'],
+    technologies: ['WordPress', 'TypeScript', 'Tailwind', 'three.js'],
     links: {
       preview: 'https://cakutama.com/writer-list/',
       github: 'https://cakutama.com/writer-list/',
@@ -288,7 +288,7 @@ export const experiencesData = [
       'Supabase',
       'Studio',
       'Wordpress',
-      'Figma',
+      'three.js',
     ],
   },
   {
