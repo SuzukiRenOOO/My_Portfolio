@@ -26,9 +26,9 @@ export const links = [
 export const projectsData = [
   {
     image: '/images/1.png',
-    title: 'My_Project1',
+    title: '町田鶴川ファミリーホール（サン・ライフ）',
     description:
-      'このプロジェクトは、TypeScript、Tailwind CSS、Next-auth、Eslint、Stripe、テストツールなど、豊富な機能を搭載しています。',
+      '2023年11月に東京都町田市野津田町でオープンした、サン・ライフ直営の少人数向け貸切型家族葬式場です。最大20名程度に対応し、個室安置室やバリアフリー設計、14台分の駐車場を備えています。緑を感じる明るい外観と、故人を偲ぶメモリアル祭壇も特徴です。',
     technologies: ['Next.js', 'Tailwind', 'Shadcn/ui', 'Next-auth', 'Prisma'],
     links: {
       preview: 'https://www.moshimo.net/lp_machida/',
@@ -38,9 +38,9 @@ export const projectsData = [
   },
   {
     image: '/images/2.png',
-    title: 'My_Project2',
+    title: 'かがやき夢工場（就労継続支援B型）',
     description:
-      'このプロジェクトは、TypeScript、Tailwind CSS、WordPress、Stripe、テストツールなど、豊富な機能を搭載しています。',
+      '耳が不自由な方を対象とした福祉作業所です。軽作業などを通じて、働く力と自信を育てます。手話や筆談で安心して過ごせる環境です。',
     technologies: ['WordPress', 'TypeScript', 'Tailwind', 'Prisma'],
     links: {
       preview: 'https://kagayaki-pc.net/kdf',
@@ -50,9 +50,9 @@ export const projectsData = [
   },
   {
     image: '/images/6.png',
-    title: 'My_Project3',
+    title: '越境ECのトータルサポートソリューションのLPの制作を致しました',
     description:
-      'このプロジェクトは、TypeScript、Tailwind CSS、WordPress、Stripe、テストツールなど、豊富な機能を搭載しています。',
+      '日本企業の中国進出をサポートするWeChatミニプログラム開発支援事業をご紹介しています。サイト全体は目を引く赤を基調としたカラーと黄色のアクセントを使い、「信頼」「信用」 を意識した文言、デザインで制作をしました。また、分かりやすさ・見やすさを意識しフラットデザインに仕上げています。',
     technologies: ['WordPress', 'TypeScript', 'Tailwind', 'three.js'],
     links: {
       preview: '/images/6.png',
@@ -62,9 +62,9 @@ export const projectsData = [
   },
   {
     image: '/images/4.png',
-    title: 'My_Project4',
+    title: 'マドリル（MADORIRU）',
     description:
-      'このプロジェクトは、TypeScript、Tailwind CSS、Shopify、Stripe、テストツールなど、豊富な機能を搭載しています。',
+      '間取りから始める注文住宅の無料サポートサービスで、希望の間取り診断後に予算や条件に合ったハウスメーカーを紹介します。また、土地探しから住宅ローンや建築プランの相談まで、一貫して支援してくれます。',
     technologies: ['Shopify', 'TypeScript', 'Tailwind', 'Prisma'],
     links: {
       preview: 'https://madoriru.com/',
@@ -74,7 +74,7 @@ export const projectsData = [
   },
   {
     image: '/images/3.png',
-    title: 'My_Project5',
+    title: '町田鶴川ファミリーホール',
     description:
       'このプロジェクトは、TypeScript、Tailwind CSS、WordPress、Eslint、Stripe、テストツールなど、豊富な機能を搭載しています。',
     technologies: ['WordPress', 'TypeScript', 'Tailwind', 'Prisma'],
@@ -86,9 +86,9 @@ export const projectsData = [
   },
   {
     image: '/images/5.png',
-    title: 'My_Project6',
+    title: '美容看護師専門転職サービス（美容看護師向けLP）',
     description:
-      'このプロジェクトは、TypeScript、Tailwind CSS、Next-auth、Eslint、Stripe、テストツールなど、豊富な機能を搭載しています。',
+      '美容クリニックへの就職を希望する看護師向けのランディングページです。業界知識豊富なキャリアアドバイザーによる求人紹介や転職支援の流れが紹介されています。',
     technologies: ['Next.js', 'TypeScript', ' Nest.js', 'Tailwind', 'three.js'],
     links: {
       preview: 'https://biyou-kango.jp',
@@ -98,9 +98,9 @@ export const projectsData = [
   },
   {
     image: '/images/8.png',
-    title: 'My_Project7',
+    title: 'Sae Arai Gallery（サエ・アライ・ギャラリー）',
     description:
-      'このプロジェクトは、TypeScript、Tailwind CSS、Shopify、Stripe、テストツールなど、豊富な機能を搭載しています。',
+      '東京・西麻布（乃木坂／六本木エリア）の企画画廊で、2003年創立以来、若手〜中堅アーティストの抽象的・現代美術作品を発表・販売しています。定期的に個展を開催し、美しい絵画や版画を展示・販売。ギャラリー併設のニュースや作家情報も掲載されています。',
     technologies: ['Shopify', 'TypeScript', 'Tailwind', 'Prisma'],
     links: {
       preview: 'https://saearai-gallery.tokyo/',
@@ -110,9 +110,9 @@ export const projectsData = [
   },
   {
     image: '/images/9.png',
-    title: 'My_Project8',
+    title: 'Microtrac ウェブショップ（Microtrac Webshop）',
     description:
-      'このプロジェクトは、TypeScript、Tailwind CSS、Shopify、Stripe、テストツールなど、豊富な機能を搭載しています。',
+      '粒子解析機器を手がける Microtrac の製品をオンライン注文できるサイトです。アクセスには事前登録が必要で、登録後はレーザー回折装置や吸着計測装置などを購入できる専用購入ページへ案内されます。Microtrac は粒子・気孔構造測定技術に強みを持つグローバルな分析機器メーカーです。',
     technologies: ['Shopify', 'TypeScript', 'Tailwind', 'Prisma'],
     links: {
       preview: 'https://www.microtrac-webshop.jp/',
@@ -122,7 +122,7 @@ export const projectsData = [
   },
   {
     image: '/images/7.png',
-    title: 'My_Project9',
+    title: 'キャリアGO',
     description:
       'このプロジェクトは、TypeScript、Tailwind CSS、WordPress、Eslint、Stripe、テストツールなど、豊富な機能を搭載しています。',
     technologies: ['WordPress', 'TypeScript', 'Tailwind', 'Prisma'],
@@ -134,9 +134,9 @@ export const projectsData = [
   },
   {
     image: '/images/10.png',
-    title: 'My_Project10',
+    title: 'Microtrac ウェブショップ（Microtrac Webshop）',
     description:
-      'このプロジェクトは、TypeScript、Tailwind CSS、Shopify、Stripe、テストツールなど、豊富な機能を搭載しています。',
+      '粒子解析機器を手がける Microtrac の製品をオンライン注文できるサイトです。アクセスには事前登録が必要で、登録後はレーザー回折装置や吸着計測装置などを購入できる専用購入ページへ案内されます。Microtrac は粒子・気孔構造測定技術に強みを持つグローバルな分析機器メーカーです。',
     technologies: ['Shopify', 'TypeScript', 'Tailwind', 'Prisma'],
     links: {
       preview: 'https://morimoto-shinya.jp/',
@@ -146,21 +146,21 @@ export const projectsData = [
   },
   {
     image: '/images/12.png',
-    title: 'My_Project11',
+    title: 'Ryubi Miyase LIVE 特設サイト（宮世琉弥）',
     description:
-      'このプロジェクトは、TypeScript、Tailwind CSS、Next-auth、Eslint、Stripe、テストツールなど、豊富な機能を搭載しています。',
+      '2024年開催の「Ryubi Miyase LIVE TOUR 2024 ‘NEVERLAND’」をはじめ、最新ライブ情報やチケット先行案内、公式グッズ情報などを掲載している宮世琉弥の公式ライブサイトです。',
     technologies: ['Next.js', 'TypeScript', ' Nest.js', 'Tailwind', 'Prisma'],
     links: {
-      preview: '/images/12.png',
-      github: '/images/12.png',
-      githubApi: '/images/12.png',
+      preview: 'https://live.miyaseryubi.jp/',
+      github: 'https://live.miyaseryubi.jp/',
+      githubApi: 'https://live.miyaseryubi.jp/',
     },
   },
   {
     image: '/images/11.png',
-    title: 'My_Project12',
+    title: 'シュガーダディ（SugarDaddy）',
     description:
-      'このプロジェクトは、TypeScript、Tailwind CSS、WordPress、Eslint、Stripe、テストツールなどを使用して開発されたマッチングアプリです。',
+      '「魅力的な女性」と「高収入の男性」をつなぐ、国内最大級のパパ活専用マッチングサービスです。女性は無料で利用でき、男性は月額制で利用可能。年収証明や24時間の監視体制、通報機能など、安全性にも配慮されています。',
     technologies: ['WordPress', 'TypeScript', 'Tailwind', 'Prisma'],
     links: {
       preview: 'https://sugardaddy.jp/',
@@ -170,9 +170,9 @@ export const projectsData = [
   },
   {
     image: '/images/Service/13.png',
-    title: 'My_Project13',
+    title: 'キャリアGO（CareerGO）',
     description:
-      'このプロジェクトは、TypeScript、Tailwind CSS、Studio、Stripe、テストツールなど、豊富な機能を搭載しています。',
+      'キャリアGOは転職するのではなく、現職・現在の環境の中でキャリアを磨きたい人向けのコンサルティングサービスです。キャリアコンサルタントによる対面面談を通じて、仕事だけでなく人生全体の視点からサポートしてくれます。',
     technologies: ['Studio', 'TypeScript', 'Tailwind', 'Prisma'],
     links: {
       preview: 'http://careergo.jp',
@@ -182,9 +182,9 @@ export const projectsData = [
   },
   {
     image: '/images/Service/17.png',
-    title: 'My_Project14',
+    title: 'B型肝炎相談サイト（神戸ライズ法律事務所）',
     description:
-      'このプロジェクトは、TypeScript、Tailwind CSS、Next-auth、Eslint、Stripe、テストツールなど、豊富な機能を搭載しています。',
+      '神戸・三ノ宮にある法務事務所が運営する、B型肝炎被害者の相談専用サイトです。国の集団予防接種による感染と救済制度（給付金など）の説明や、弁護士による受給支援を案内しています。',
     technologies: ['Next.js', 'TypeScript', ' Nest.js', 'Tailwind', 'Prisma'],
     links: {
       preview: 'https://koberise-bkan.com',
@@ -194,9 +194,9 @@ export const projectsData = [
   },
   {
     image: '/images/Service/16.png',
-    title: 'My_Project15',
+    title: 'サロンM&Aネット（Salon M&A ネット）',
     description:
-      'このプロジェクトは、TypeScript、Tailwind CSS、Studio、Stripe、テストツールなど、豊富な機能を搭載しています。',
+      '美容業界（理・美容室、エステ、ネイル、アイラッシュなど）に特化した M&A マッチングサイトです。美容サロンの売却・買収案件を無料の会員登録で掲載・検索でき、売り手・買い手それぞれに「セルフプラン」「フルサポートプラン」から選べます（売却は成功報酬型、セルフプランなら完全無料）。',
     technologies: ['Studio', 'TypeScript', 'Tailwind', 'Prisma'],
     links: {
       preview: 'https://salonma.jp',
@@ -206,9 +206,9 @@ export const projectsData = [
   },
   {
     image: '/images/Service/15.png',
-    title: 'My_Project16',
+    title: 'かくたまライターリスト',
     description:
-      'このプロジェクトは、TypeScript、Tailwind CSS、WordPress、Stripe、テストツールなど、豊富な機能を搭載しています。',
+      'フリー・所属問わず、ライターやディレクター、校正者、編集者などのコンテンツ制作に携わる専門家が無料で登録できるデータベースです。メディアオーナーとのマッチングを支援し、SEOやコンテンツプランニングなど多彩なスキルやジャンルで検索可能です。',
     technologies: ['WordPress', 'TypeScript', 'Tailwind', 'three.js'],
     links: {
       preview: 'https://cakutama.com/writer-list/',
@@ -218,9 +218,9 @@ export const projectsData = [
   },
   {
     image: '/images/Service/14.png',
-    title: 'My_Project17',
+    title: '小さいわが家のお葬式（見積もりシミュレーション）',
     description:
-      'このプロジェクトは、TypeScript、Tailwind CSS、Next-auth、Eslint、Stripe、テストツールなど、豊富な機能を搭載しています。',
+      '神奈川・東京を中心に展開する低価格の家族葬サービスで、簡単な操作で葬儀プランや地域を選びながら費用をセルフ見積できるシミュレーション機能を提供しています。事前登録や資料請求をすると最大5万円の割引も適用されます。実際の葬儀準備前の費用目安として安心して利用できます。',
     technologies: ['Next.js', 'TypeScript', ' Nest.js', 'Tailwind', 'Prisma'],
     links: {
       preview: 'https://www.wagaya-ososhiki.com/simulation/',
