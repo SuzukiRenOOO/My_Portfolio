@@ -42,7 +42,7 @@ export const Intro = () => {
       >
         モダンなWebアプリを開発する
         <span className="bg-gradient-to-r from-rose-700 to-pink-600 bg-clip-text text-transparent">
-          フロントエンドエンジニア
+          フルスタックエンジニア
         </span>
         です。
       </motion.h1>
@@ -54,7 +54,7 @@ export const Intro = () => {
         }}
         className="text-muted-foreground max-w-xl"
       >
-        日本在住のフロントエンドエンジニアです。Next.js、React、Tailwind
+        日本在住のフルスタックエンジニアです。Next.js、React、Tailwind
         CSSを用いたモダンなWebアプリ開発に情熱を注いでいます。
       </motion.p>
       <motion.div
